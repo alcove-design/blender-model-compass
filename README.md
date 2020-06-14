@@ -22,6 +22,12 @@ The following content is not stored in the repository in order to keep it lightw
 
 * Floral tent HDRI by Greg Zaal. Available for free in [HDRI haven](https://hdrihaven.com/hdri/?c=indoor&h=floral_tent), CC0 license (public domain).
 
+## Blend file collections
+
+* `compass`: The compass model, to be appended / linked from other blend files.
+* `environment`: camera setup.
+* `scene`: copy of the compass, laid out on a table, for demo purpose.
+
 
 ## License
 
